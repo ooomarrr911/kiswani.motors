@@ -1,3 +1,5 @@
+import React from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { useState, useEffect, useRef, useCallback } from "react";
 import { motion, useMotionValue, useSpring, useTransform, AnimatePresence } from "framer-motion";
 import { ChevronDown, Zap, Shield, Gauge, Star, ArrowRight, Menu, X, Play } from "lucide-react";
