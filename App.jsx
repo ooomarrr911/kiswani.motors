@@ -6,13 +6,13 @@ import { ChevronDown, Zap, Shield, Gauge, Star, ArrowRight, Menu, X, Play } from
 // ─── DATA ───────────────────────────────────────────────────────────────────
 
 const BMW_MODELS = [
-  { id: 1, name: "M5 Competition", year: "2025", hp: "717", speed: "3.4s", tag: "The Ultimate Driving Machine", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2025_BMW_M5_%28G90%29%2C_front_8.28.23.jpg/1280px-2025_BMW_M5_%28G90%29%2C_front_8.28.23.jpg" },
-  { id: 2, name: "7 Series", year: "2025", hp: "536", speed: "4.1s", tag: "Luxury Redefined", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_BMW_7_Series_%28G70%29_sedan%2C_front_8.6.22.jpg/1280px-2023_BMW_7_Series_%28G70%29_sedan%2C_front_8.6.22.jpg" },
+  { id: 1, name: "M5 Competition", year: "2025", hp: "717", speed: "3.4s", tag: "The Ultimate Driving Machine", img: "https://upload.wikimedia.org/wikipedia/commons/b/b3/2018_BMW_M5_Automatic_4.4.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b3/2018_BMW_M5_Automatic_4.4.jpg" },
+  { id: 2, name: "7 Series", year: "2025", hp: "536", speed: "4.1s", tag: "Luxury Redefined", img: "https://upload.wikimedia.org/wikipedia/commons/4/4d/BMW_G70_7_Series_Front_8.6.22.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4d/BMW_G70_7_Series_Front_8.6.22.jpg" },
   { id: 3, name: "XM Label", year: "2025", hp: "748", speed: "3.8s", tag: "Electrified Dominance", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2023_BMW_XM_%28G09%29_SUV%2C_front_8.6.22.jpg/1280px-2023_BMW_XM_%28G09%29_SUV%2C_front_8.6.22.jpg" },
 ];
 
 const MERC_MODELS = [
-  { id: 1, name: "AMG GT 63 S", year: "2025", hp: "831", speed: "2.9s", tag: "Driving Performance", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2024_Mercedes-AMG_GT_63_S_E_Performance%2C_front_9.3.23.jpg/1280px-2024_Mercedes-AMG_GT_63_S_E_Performance%2C_front_9.3.23.jpg" },
+  { id: 1, name: "AMG GT 63 S", year: "2025", hp: "831", speed: "2.9s", tag: "Driving Performance", img: "https://upload.wikimedia.org/wikipedia/commons/3/30/2019_Mercedes-AMG_GT_63_S_4Matic%2B.jpg](https://upload.wikimedia.org/wikipedia/commons/3/30/2019_Mercedes-AMG_GT_63_S_4Matic%2B.jpg" },
   { id: 2, name: "S-Class Maybach", year: "2025", hp: "550", speed: "4.4s", tag: "The Pinnacle of Luxury", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021_Mercedes-Maybach_S580_%28Z223%29%2C_front_10.14.21.jpg/1280px-2021_Mercedes-Maybach_S580_%28Z223%29%2C_front_10.14.21.jpg" },
   { id: 3, name: "EQS 580 AMG", year: "2025", hp: "751", speed: "3.4s", tag: "Electric Prestige", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2022_Mercedes-AMG_EQS_53_4MATIC%2B%2C_front_10.22.22.jpg/1280px-2022_Mercedes-AMG_EQS_53_4MATIC%2B%2C_front_10.22.22.jpg" },
 ];
